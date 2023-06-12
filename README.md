@@ -40,6 +40,6 @@ Follow the instruction up until where it says Clone Repository, then clone
 this repository and you should be good.
 
 ## Begin The Course
-
+Begin The Course Video: https://youtu.be/qgpR6ZZdQsQ
 
 
