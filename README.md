@@ -15,20 +15,20 @@ powerful. The syntax is designed for more natural and readable programming.
 
 Set up your Python development environment:
 
-Install python.
-	Find on its official site.
-	The Python Programming Language (3.10 or greater)
+	Install python.
+		Find on its official site.
+		The Python Programming Language (3.10 or greater)
   
-File-naming conventions.
-	Snake case is needed for Python.
-More info.
-	https://stackoverflow.com/questions/2740026/why-are-underscores-better-than-hyphens-for-file-names
+	File-naming conventions.
+		Snake case is needed for Python.
+	More info.
+		https://stackoverflow.com/questions/2740026/why-are-underscores-better-than-hyphens-for-file-names
   
-Command line.
-	You can run a python program, for example rfk.py, like this:
-		py rfk
-	Or this:
-		python3 rfk
+	Command line.
+		You can run a python program, for example rfk.py, like this:
+			py rfk
+		Or this:
+			python3 rfk
 
 Install Visual Studio Code (also known as VS Code).
 Also install the Python extension in VS Code.
